@@ -1,1 +1,1 @@
-cmd -k perl pisg
+perl pisg
